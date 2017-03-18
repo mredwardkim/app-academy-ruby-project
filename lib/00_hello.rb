@@ -10,3 +10,7 @@ end
 def greet(someone)
   "Hello, #{soneone}!"
 end
+
+def helloworld
+  "hello world"
+end
